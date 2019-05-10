@@ -1,4 +1,4 @@
-# ELT-Exercise
+# ETL-Exercise
 
 Healthcare company stock data was pulled from Nasdaq and uploaded into a database. Additionally, the number of company sponsored clinical
 trials were uploaded into the database.
