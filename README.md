@@ -1,7 +1,8 @@
 # ETL-Exercise
 
 Healthcare company stock data was pulled from Nasdaq and uploaded into a database. Additionally, the number of company sponsored clinical
-trials were uploaded into the database.
+trials were uploaded into the database. These data sets were chosen to monitor the number of clinical trials of publicly traded healthcare
+companies.
 
 *Extract*
 
