@@ -3,10 +3,10 @@
 
 *Extract*
 
-Nasdaq Healthcare company list (csv) from:
+Nasdaq list of healthcare companies along with stock information (csv) from:
 https://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Health+Care
 
-Clinical trials list and count by sponser (html) from:
+Clinical trials list and count by sponser/company (html) from:
 https://clinicaltrials.gov/ct2/search/browse?brwse=spns_alpha_all
 
 *Transform*
